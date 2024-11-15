@@ -1,0 +1,17 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+.idea
+Cr.CareCompanion.sln.DotSettings.user
+TestResults
+/CoverageReport
+CoverageReport.files
+dotnet-tools.json
+/tools
+
+.meteor
+*.user
+*.suo
+.vs/
